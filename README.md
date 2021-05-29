@@ -1,0 +1,2 @@
+# whitepaper
+Ursacoin [BEAR] Whitepaper
